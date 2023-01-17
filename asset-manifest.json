@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nmea-gps/static/css/main.b6166bc4.css",
+    "main.js": "/nmea-gps/static/js/main.7aa9c674.js",
+    "static/js/787.482336ef.chunk.js": "/nmea-gps/static/js/787.482336ef.chunk.js",
+    "static/media/map.jpg": "/nmea-gps/static/media/map.0bc68dc5952ef74bc2fc.jpg",
+    "static/media/logo.svg": "/nmea-gps/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nmea-gps/index.html",
+    "main.b6166bc4.css.map": "/nmea-gps/static/css/main.b6166bc4.css.map",
+    "main.7aa9c674.js.map": "/nmea-gps/static/js/main.7aa9c674.js.map",
+    "787.482336ef.chunk.js.map": "/nmea-gps/static/js/787.482336ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6166bc4.css",
+    "static/js/main.7aa9c674.js"
+  ]
+}
